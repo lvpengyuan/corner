@@ -30,7 +30,7 @@ Please cite the paper in your publications if it helps your research:
 ### Installation
 
 ```
-git clone 
+git clone https://github.com/lvpengyuan/corner.git
 sh ./make.sh   or  cd rpsroi_pooling && python build.py
 ```
 
