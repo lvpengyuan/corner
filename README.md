@@ -24,8 +24,8 @@ Please cite the paper in your publications if it helps your research:
 6. [License](#license)
 
 ### Requirements
-- NVIDIA GPU, Ubuntu 14.04, Python2.7
-- PyTorch 0.2.0
+- NVIDIA GPU, Ubuntu 14.04, Python2.7, CUDA8/9
+- PyTorch 0.2.0_3
 
 ### Installation
 
