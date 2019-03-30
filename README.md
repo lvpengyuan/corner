@@ -36,6 +36,7 @@ sh ./make.sh   or  cd rpsroi_pooling && python build.py
 
 ### Models
 Download the model and place it in ```weights/```
+
 Our trained model:
 [Google Drive](https://drive.google.com/open?id=159kPFUtFddvRxQqMm4ewv8UIZ91-Y8oT);
 
